@@ -1,1 +1,9 @@
 /*This is the base stylesheet used for every page*/
+body {
+    background-image: url('../assets/CRT_Bezel.svg');
+}
+
+/* Styles for mobile devices (viewport width < 600px) */
+@media (max-width: 600px) {
+
+}
