@@ -1,13 +1,7 @@
 /*This is the base stylesheet used for every page*/
 body {
-    background-image: url('../assets/CRT_Bezel.svg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    height: 90vh;
-    margin: auto;
     background-color: darkslategray;
-    background-position: fixed;
+    width: 90vw;
 }
 
 /* Styles for mobile devices (viewport width < 600px) */
