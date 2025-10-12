@@ -14,7 +14,7 @@ body {
     margin: 0;
 }
 
-#navigation ul {
+#navigation ul a{
     text-decoration: none;
 }
 
