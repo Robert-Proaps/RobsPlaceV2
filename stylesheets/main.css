@@ -2,6 +2,7 @@
 body {
     background-color: darkslategray;
     width: 90vw;
+    margin: 10vw;
 }
 
 /* Styles for mobile devices (viewport width < 600px) */
