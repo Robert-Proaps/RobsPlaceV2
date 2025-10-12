@@ -9,7 +9,7 @@ body {
     background-color: orange;
     display: inline-block;
     text-decoration: none;
-    width: 100%;
+    width: 100vw;
     height: 10vw;
     margin: 0;
 }
