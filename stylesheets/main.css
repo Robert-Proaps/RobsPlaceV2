@@ -7,6 +7,7 @@ body {
     height: 100vh;
     margin: auto;
     background-color: darkslategray;
+    background-position: fixed;
 }
 
 /* Styles for mobile devices (viewport width < 600px) */
