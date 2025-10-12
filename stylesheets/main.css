@@ -12,13 +12,7 @@ body {
     width: 100vw;
     height: 10vw;
     margin: 0;
-    text-decoration: none;
 }
-
-#navigation ul li{
-    text-decoration: none;
-}
-
 #navigation ul li a {
     text-decoration: none;
 }
