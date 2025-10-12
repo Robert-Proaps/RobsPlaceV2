@@ -9,6 +9,9 @@ body {
 #navigation {
     background-color: orange;
     display: inline-block;
+    text-decoration: none;
+    width: 100%;
+    height: 10vw;
 }
 
 /* Styles for mobile devices (viewport width < 600px) */
