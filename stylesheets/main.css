@@ -30,6 +30,7 @@ body {
     align-items: center;
     font-family: Aero;
     position: fixed;
+    top: 0;
 }
 nav ul {
     list-style: none;  
