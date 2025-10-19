@@ -1,13 +1,13 @@
 /*This is the base stylesheet used for every page*/
 body {
-    background-color: #CFE7E8;
+    background-color: #C2F0BD;
     width: 90vw;
     margin: 0;
     
 }
 
 #navigation {
-    background-color: orange;
+    background-color: #FBD8A2;
     display: inline-block;
     width: 100vw;
     height: 10vw;
