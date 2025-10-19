@@ -50,7 +50,7 @@ nav a {
 }
 
 #WelcomeBlurb {
-    top: 10vw;
+    margin-top: 10vw;
 }
 
 /* Styles for mobile devices (viewport width < 600px) */
