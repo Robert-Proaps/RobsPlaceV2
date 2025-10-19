@@ -21,6 +21,7 @@ body {
     width: 100vw;
     height: 10vw;
     margin: 0;
+    display: flex;
 }
 nav ul {
     list-style: none;  
