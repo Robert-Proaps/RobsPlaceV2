@@ -29,7 +29,7 @@ body {
     display: flex;
     align-items: center;
     font-family: Aero;
-    position: sticky;
+    position: fixed;
 }
 nav ul {
     list-style: none;  
