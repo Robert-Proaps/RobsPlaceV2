@@ -1,6 +1,16 @@
 /*This is the base stylesheet used for every page*/
+
+:root {
+    --Vodka: #C2B7E9;
+    --Powder-Blue: #ADDEDF;
+    --Tea-Green: #C2F0BD;
+    --Very-Pale-Yellow: #FFFDB4;
+    --Deep-Champagne: #FBD8A2;
+    --Spanish-Pink: #EEBAB9;
+}
+
 body {
-    background-color: #ADDEDF;
+    background-color: var(--Powder-Blue);
     width: 90vw;
     margin: 0;
     
