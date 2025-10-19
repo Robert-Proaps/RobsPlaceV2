@@ -9,6 +9,11 @@
     --Spanish-Pink: #EEBAB9;
 }
 
+@font-face {
+    font-family: Aero;
+    src: url(../assets/fonts/Aero.ttf) format(truetype);
+}
+
 body {
     background-color: var(--Powder-Blue);
     width: 90vw;
@@ -23,6 +28,7 @@ body {
     margin: 0;
     display: flex;
     align-items: center;
+    font-family: Aero;
 }
 nav ul {
     list-style: none;  
