@@ -21,11 +21,11 @@ body {
     width: 100vw;
     height: 10vw;
     margin: 0;
-    
 }
 nav ul {
     list-style: none;  
     display: flex;
+    gap: 20px;
 }
 nav ul li a {
     text-decoration: none;
