@@ -18,19 +18,17 @@ body {
 /*#CFE7E8*/
 #navigation {
     background-color: orange;
-    display: inline-block;
     width: 100vw;
     height: 10vw;
     margin: 0;
     
 }
 nav ul {
-    list-style: none;
-    display: inline-block;
+    list-style: none;  
+    display: flex;
 }
 nav ul li a {
     text-decoration: none;
-    list-style: none;
 }
 
 
