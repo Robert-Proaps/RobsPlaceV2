@@ -39,7 +39,7 @@ nav ul {
 }
 nav a {
     text-decoration: none;
-    padding: 35px;
+    padding: 30px, 35px, 30px, 35px;
     background-color: var(--Deep-Champagne);
     border-radius: 5px;
     color: black;
