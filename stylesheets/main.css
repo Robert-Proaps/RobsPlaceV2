@@ -49,11 +49,10 @@ nav a {
     font-size: 32pt;
 }
 
-#WelcomeBlurb { /*Might need to be in per-page css*/
-    margin-top: 10vw;
-}
+
 
 #MainContentContainer {
+    margin-top: 10vw;
     margin-left: 5vw;
     margin-right: 5vw;
     display: flex;
