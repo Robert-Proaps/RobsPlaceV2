@@ -1,11 +1,11 @@
 /*This is the base stylesheet used for every page*/
 body {
-    background-color: #CFE7E8;
+    background-color: #ADDEDF;
     width: 90vw;
     margin: 0;
     
 }
-
+/*#CFE7E8*/
 #navigation {
     background-color: orange;
     display: inline-block;
