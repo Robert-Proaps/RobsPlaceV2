@@ -49,6 +49,9 @@ nav a {
     font-size: 32pt;
 }
 
+#WelcomeBlurb {
+    top: 10vw;
+}
 
 /* Styles for mobile devices (viewport width < 600px) */
 /*@media (max-width: 600px) {
