@@ -26,10 +26,12 @@ nav ul {
     list-style: none;  
     display: flex;
     gap: 20px;
-    background-color: var(--Deep-Champagne);
+    
 }
 nav a {
     text-decoration: none;
+    padding: 3px;
+    background-color: var(--Deep-Champagne);
 }
 
 
